@@ -1,0 +1,19 @@
++----------------------------------------+
+| fitting 1.003 11.01.2010       F. Kern |
++----------------------------------------+
+
+Aufruf: D:\SRC\SRC_A\kalib\fitting.exe niemeier_1135.plane -Tplane -oniemeier_1135.erg 
+
+#observed values = 16
+#unknown values  = 3
+damping = 1.000000: successfull approximation after 3 iterations
+plane: norm=[0.286432 0.428737 -0.856821] d=0.859019
+Sigma_xx =
+ 2.317272e-07 -1.058552e-07 -1.509459e-07 
+-1.058552e-07  3.390948e-07 -4.955156e-07 
+-1.509459e-07 -4.955156e-07  2.074659e-06 
+Korrelationsmatrix
+    0.000481  100.000  -37.763  -21.770 
+    0.000582     .     100.000  -59.078 
+    0.001440     .        .     100.000 
+total runing time: 0.001606 sec.

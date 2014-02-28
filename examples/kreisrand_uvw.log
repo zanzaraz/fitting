@@ -1,0 +1,20 @@
++----------------------------------------+
+| fitting 1.003 11.01.2010       F. Kern |
++----------------------------------------+
+
+Aufruf: D:\SRC\SRC_A\kalib\fitting.exe kreisrand_uvw.pts -Tcircle -okreisrand_uvw.erg 
+
+#observed values = 948
+#unknown values  = 3
+damping = 1.000000: no convergence.
+damping = 0.500000: successfull approximation after 21 iterations
+circle: xm=[-1.105653 0.271900] r=0.074725
+Sigma_xx =
+ 4.754716e-09  8.157234e-11  3.092269e-12 
+ 8.157234e-11  4.818594e-09 -1.733135e-11 
+ 3.092269e-12 -1.733135e-11  2.392558e-09 
+Korrelationsmatrix
+    0.000069  100.000    1.704    0.092 
+    0.000069     .     100.000   -0.510 
+    0.000049     .        .     100.000 
+total runing time: 0.036867 sec.

@@ -1,0 +1,20 @@
++----------------------------------------+
+| fitting 1.003 11.01.2010       F. Kern |
++----------------------------------------+
+
+Aufruf: D:\SRC\SRC_A\kalib\fitting.exe bopp.circle -Tcircle -obopp.erg 
+
+#observed values = 10
+#unknown values  = 3
+damping = 1.000000: no convergence.
+damping = 0.500000: successfull approximation after 33 iterations
+circle: xm=[124.971060 85.749196] r=41.502822
+Sigma_xx =
+ 2.635463e-05  4.644143e-06  1.501107e-07 
+ 4.644143e-06  3.126443e-05  5.128190e-07 
+ 1.501107e-07  5.128190e-07  1.393080e-05 
+Korrelationsmatrix
+    0.005134  100.000   16.179    0.783 
+    0.005591     .     100.000    2.457 
+    0.003732     .        .     100.000 
+total runing time: 0.009735 sec.

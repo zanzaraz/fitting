@@ -1,0 +1,12 @@
++----------------------------------------+
+| fitting 1.003 11.01.2010       F. Kern |
++----------------------------------------+
+
+Aufruf: D:\SRC\SRC_A\kalib\fitting.exe derletztekick.circle -Tcircle -oderletztekick.erg 
+
+#observed values = 30
+#unknown values  = 3
+damping = 1.000000: no convergence.
+damping = 0.500000: no convergence.
+damping = 0.250000: no convergence.
+error in circle fitting.total runing time: 0.011825 sec.
