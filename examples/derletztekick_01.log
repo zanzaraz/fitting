@@ -1,8 +1,8 @@
-+----------------------------------------+
-| fitting 1.003 11.01.2010       F. Kern |
-+----------------------------------------+
++------------------------------------------------------+
+| Fitting v1.0.2 14.01.2010 F. Kern (www.i3mainz.fh-mainz.de)
++------------------------------------------------------+
 
-Aufruf: D:\SRC\SRC_A\kalib\fitting.exe derletztekick_01.ellipse -Tellipse -oderletztekick_01.erg 
+Aufruf: D:\src\github\fitting\fitting.exe derletztekick_01.ellipse -Tellipse -oderletztekick_01.erg 
 
 #observed values = 8
 #unknown values  = 5
@@ -20,4 +20,4 @@ Korrelationsmatrix
     0.000009     .        .     100.000  -90.037  -78.449 
     0.000181     .        .        .     100.000   89.744 
     0.000024     .        .        .        .     100.000 
-total runing time: 0.004335 sec.
+total runing time: 0.003117 sec.

@@ -1,8 +1,8 @@
-+----------------------------------------+
-| fitting 1.003 11.01.2010       F. Kern |
-+----------------------------------------+
++------------------------------------------------------+
+| Fitting v1.0.2 14.01.2010 F. Kern (www.i3mainz.fh-mainz.de)
++------------------------------------------------------+
 
-Aufruf: D:\SRC\SRC_A\kalib\fitting.exe linda.ellipse -Tellipse -olinda.erg 
+Aufruf: D:\src\github\fitting\fitting.exe linda.ellipse -Tellipse -olinda.erg 
 
 #observed values = 195
 #unknown values  = 5
@@ -20,4 +20,4 @@ Korrelationsmatrix
     0.008520     .        .     100.000  -16.626   -3.976 
     0.000319     .        .        .     100.000  -34.122 
     0.000399     .        .        .        .     100.000 
-total runing time: 0.002953 sec.
+total runing time: 0.004595 sec.

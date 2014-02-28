@@ -1,8 +1,8 @@
-+----------------------------------------+
-| fitting 1.003 11.01.2010       F. Kern |
-+----------------------------------------+
++------------------------------------------------------+
+| Fitting v1.0.2 14.01.2010 F. Kern (www.i3mainz.fh-mainz.de)
++------------------------------------------------------+
 
-Aufruf: D:\SRC\SRC_A\kalib\fitting.exe kreisrand.pts -Tellipse -okreisrand.erg 
+Aufruf: D:\src\github\fitting\fitting.exe kreisrand.pts -Tellipse -okreisrand.erg 
 
 #observed values = 948
 #unknown values  = 5
@@ -20,4 +20,4 @@ Korrelationsmatrix
     0.000288     .        .     100.000  -99.710  -99.698 
    42.581529     .        .        .     100.000  100.000 
     0.156795     .        .        .        .     100.000 
-total runing time: 0.048976 sec.
+total runing time: 0.009646 sec.

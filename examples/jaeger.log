@@ -1,12 +1,12 @@
-+----------------------------------------+
-| fitting 1.003 11.01.2010       F. Kern |
-+----------------------------------------+
++------------------------------------------------------+
+| Fitting v1.0.2 14.01.2010 F. Kern (www.i3mainz.fh-mainz.de)
++------------------------------------------------------+
 
-Aufruf: D:\SRC\SRC_A\kalib\fitting.exe jaeger.sphere -Tsphere -ojaeger.erg 
+Aufruf: D:\src\github\fitting\fitting.exe jaeger.sphere -Tsphere -ojaeger.erg 
 
 #observed values = 6
 #unknown values  = 4
 damping = 1.000000: no convergence.
 damping = 0.500000: no convergence.
 damping = 0.250000: no convergence.
-error in sphere fitting.total runing time: 0.002361 sec.
+error in sphere fitting.total runing time: 0.003497 sec.

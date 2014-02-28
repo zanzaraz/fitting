@@ -1,8 +1,8 @@
-+----------------------------------------+
-| fitting 1.003 11.01.2010       F. Kern |
-+----------------------------------------+
++------------------------------------------------------+
+| Fitting v1.0.2 14.01.2010 F. Kern (www.i3mainz.fh-mainz.de)
++------------------------------------------------------+
 
-Aufruf: D:\SRC\SRC_A\kalib\fitting.exe ellipse1_schlecht.txt -Tellipse -oellipse1_schlecht.erg 
+Aufruf: D:\src\github\fitting\fitting.exe ellipse1_schlecht.txt -Tellipse -oellipse1_schlecht.erg 
 
 #observed values = 514
 #unknown values  = 5
@@ -20,4 +20,4 @@ Korrelationsmatrix
     0.003544     .        .     100.000   15.016  -29.841 
     1.008432     .        .        .     100.000   89.679 
     0.667035     .        .        .        .     100.000 
-total runing time: 0.004795 sec.
+total runing time: 0.005640 sec.

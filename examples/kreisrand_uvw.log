@@ -1,8 +1,8 @@
-+----------------------------------------+
-| fitting 1.003 11.01.2010       F. Kern |
-+----------------------------------------+
++------------------------------------------------------+
+| Fitting v1.0.2 14.01.2010 F. Kern (www.i3mainz.fh-mainz.de)
++------------------------------------------------------+
 
-Aufruf: D:\SRC\SRC_A\kalib\fitting.exe kreisrand_uvw.pts -Tcircle -okreisrand_uvw.erg 
+Aufruf: D:\src\github\fitting\fitting.exe kreisrand_uvw.pts -Tcircle -okreisrand_uvw.erg 
 
 #observed values = 948
 #unknown values  = 3
@@ -17,4 +17,4 @@ Korrelationsmatrix
     0.000069  100.000    1.704    0.092 
     0.000069     .     100.000   -0.510 
     0.000049     .        .     100.000 
-total runing time: 0.036867 sec.
+total runing time: 0.027990 sec.
