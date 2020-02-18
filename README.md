@@ -8,7 +8,7 @@ First Steps
 
 Look into \bin an \example.
 
-
+~~~
 MAN-PAGE:
 
  Fitting v1.0.1 12.01.2010 F. Kern (www.i3mainz.fh-mainz.de)
@@ -32,3 +32,4 @@ MAN-PAGE:
   -D<level>  : Debuging-Level [0-5]
   -o<name>   : Name der Ausgabedatei
                         <x> muss [x] kann angegeben werden. (x) Default
+~~~
