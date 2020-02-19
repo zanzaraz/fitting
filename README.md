@@ -38,8 +38,7 @@ Plane
 -----
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;
-L(x,y,z,a,b,c)=0=a x + b y + c z - 1
-" title="" 
+L(x,y,z,a,b,c)=0=a x + b y + c z - 1" title="" 
 />
 
 Circle
