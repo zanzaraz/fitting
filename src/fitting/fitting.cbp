@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="fitting" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/fitting" prefix_auto="1" extension_auto="1" />
+				<Option object_output="%TEMP%/codeblocks/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add option="-D DEBUG" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/fitting" prefix_auto="1" extension_auto="1" />
+				<Option object_output="%TEMP%/codeblocks/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-std=c++11" />
+			<Add option="-fexceptions -DWITH_FITTING_UTILS" />
+		</Compiler>
+		<Unit filename="cfitting_approxfunc.cpp" />
+		<Unit filename="cfitting_approxfunc.h" />
+		<Unit filename="cfitting_circle.cpp" />
+		<Unit filename="cfitting_circle.h" />
+		<Unit filename="cfitting_ellipse.cpp" />
+		<Unit filename="cfitting_ellipse.h" />
+		<Unit filename="cfitting_it.cpp" />
+		<Unit filename="cfitting_it.h" />
+		<Unit filename="cfitting_matrix.cpp" />
+		<Unit filename="cfitting_matrix.h" />
+		<Unit filename="cfitting_plane.cpp" />
+		<Unit filename="cfitting_plane.h" />
+		<Unit filename="cfitting_sphere.h" />
+		<Unit filename="cfitting_util.cpp" />
+		<Unit filename="cfitting_util.h" />
+		<Unit filename="fitting_main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+			<AutoVersioning>
+				<Scheme minor_max="10" build_max="0" rev_max="0" rev_rand_max="10" build_times_to_increment_minor="100" />
+				<Settings autoincrement="1" date_declarations="1" use_define="0" update_manifest="1" do_auto_increment="1" ask_to_increment="0" language="C" svn="0" svn_directory="" header_path="fitting_version.h" />
+				<Changes_Log show_changes_editor="0" app_title="released version %M.%m.%b of %p" changeslog_path="fitting_ChangesLog.txt" />
+				<Code header_guard="VERSION_fitting_H" namespace="AutoVersion" prefix="" />
+			</AutoVersioning>
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
