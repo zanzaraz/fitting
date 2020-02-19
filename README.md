@@ -33,3 +33,30 @@ MAN-PAGE:
   -o<name>   : Name der Ausgabedatei
                         <x> muss [x] kann angegeben werden. (x) Default
 ~~~
+
+Plane
+-----
+
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;
+L(x,y,z,a,b,c)=0=a x + b y + c z - 1
+" title="" 
+/>
+
+Circle
+------
+
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;
+L(x,y,x_m,y_m,r)=0=\sqrt{(x-x_m)^2+(y-y_m)^2}-r
+" title="" 
+/>
+
+Sphere
+------
+
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;
+L(x,y,z,x_m,y_m,z_m,r)=0=\sqrt{(x-x_m)^2+(y-y_m)^2+(z-z_m)^2}-r
+" title="" 
+/>
+
+
+
