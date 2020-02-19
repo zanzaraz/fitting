@@ -6,7 +6,7 @@ Fitting Library for geodetic problems.
 First Steps
 -----------
 
-Look into \bin an \example.
+Look into \bin and \example.
 
 ~~~
 MAN-PAGE:
