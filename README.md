@@ -56,5 +56,8 @@ L(x,y,z,x_m,y_m,z_m,r)=0=\sqrt{(x-x_m)^2+(y-y_m)^2+(z-z_m)^2}-r
 " title="" 
 />
 
+# Test
+
+![equation](http://www.sciweavers.org/tex2img.php?eq=1%2Bsin%28mc%5E2%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
 
 
