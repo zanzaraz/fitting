@@ -26,7 +26,7 @@ MAN-PAGE:
   -f<Format> : Format der Eingabezeilen festlegen.
                moegliche Bestandteile von <Format> sind:
                     'p' Punktnummer       'x' X-Koordinate
-                    '.' Spalte ueberlesen  'y' Y-Koordinate
+                    '.' Spalte ueberlesen 'y' Y-Koordinate
                     'c' Punktcode         'z' Z-Koordinate
                     (Default '-fxyz ')
   -D<level>  : Debuging-Level [0-5]
